@@ -9,3 +9,6 @@ An attacker gained unauthorized access to the network through brute force authen
 and successfully logged in as the Administrator. The attacker laterally moved across internal
 systems, deployed tools, accessed the Microsoft Exchange server, exported a user mailbox
 to a PST file, and cleared Windows event logs to evade detection.
+
+
+<img src="Screenshot 2026-04-13 220122.png' alt-"Logo" width="50%'>
