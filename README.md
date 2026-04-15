@@ -9,5 +9,4 @@ Investigated multi-stage intrusion involving brute force, credential dumping (Mi
 Analyzed Windows Event Logs, PowerShell logs, and Security Onion data.
 Reconstructed attacker timeline and mapped techniques to MITRE ATT&CK.
 Identified indicators of compromise and root cause.
-
 <img src="Screenshot 2026-04-13 220122.png" alt="Logo" width="50%">
